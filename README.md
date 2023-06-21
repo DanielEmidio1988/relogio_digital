@@ -5,7 +5,7 @@
 Este é um projeto de estudo prático em JavaScript, utilizando DOM para a criação de uma aplicação de um relógio digital que exibe a hora atual na tela.
 
 ## 🔗Link de Acesso
-- Deploy: 
+- Deploy: [clique aqui!](https://danielemidio1988.github.io/relogio_digital/)
 
 ## 👥Equipe
 | [<img src="https://avatars.githubusercontent.com/u/111311678?v=4" width=115><br><sub>Daniel Emidio</sub>](https://github.com/DanielEmidio1988) |
